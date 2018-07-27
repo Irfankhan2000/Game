@@ -1,0 +1,27 @@
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.csproj.GenerateResource.Cache
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\bin\Debug\irfangame.exe
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\bin\Debug\irfangame.pdb
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.exe
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.pdb
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Irfan khan\documents\visual studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.csprojResolveAssemblyReference.cache
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.exe
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.pdb
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\bin\Debug\irfangame.exe
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\bin\Debug\irfangame.pdb
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.csprojResolveAssemblyReference.cache
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\vp\Visual Studio 2010\Projects\irfangame\irfangame\obj\x86\Debug\irfangame.csproj.GenerateResource.Cache
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\irfangame.exe
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\irfangame.pdb
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\bin\Debug\irfangame.exe
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\bin\Debug\irfangame.pdb
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\irfangame.csprojResolveAssemblyReference.cache
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Irfan khan\Desktop\projects\irfangame\irfangame\obj\x86\Debug\irfangame.csproj.GenerateResource.Cache
